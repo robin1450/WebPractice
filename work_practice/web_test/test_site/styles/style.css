@@ -1,0 +1,31 @@
+@charset "BIG5";
+html {
+    font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    background-color: #EADDAD;
+}
+
+p, li {
+    font-size: 16px;
+    font-family: 'Happy Monkey', cursive;
+}
+
+body {
+  width: 800px;
+  margin: 10px 100px 10px 100px;
+  background-color: #B7EAAD;
+  padding: 0 20px 20px 20px;
+  border: 3px solid #B7AAAD;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #EADDAD;
+  text-shadow: 7px 3px 10px gray;
+
+}
+
+img {
+  display: inline ;
+  margin: 0 auto;
+}
